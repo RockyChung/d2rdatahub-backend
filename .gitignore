@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Maven
+target/
+
+# 敏感環境設定檔 (你的 D2R 專案關鍵)
+src/main/resources/application-home.yml
+src/main/resources/application-office.yml

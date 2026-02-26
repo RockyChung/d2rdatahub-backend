@@ -1,0 +1,3 @@
+spring:
+  profiles:
+    active: home # 確保 active 是在 spring.profiles 底下
